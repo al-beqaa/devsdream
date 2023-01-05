@@ -1,0 +1,9 @@
+{
+    "behavior": "minecraft:air",
+    "properties": {
+        "material": "minecraft:air",
+        "has_collision": false,
+        "drops": "minecraft:empty",
+        "air": true
+    }
+}

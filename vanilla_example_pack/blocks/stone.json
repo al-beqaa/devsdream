@@ -1,0 +1,8 @@
+{
+    "properties": {
+        "material": "minecraft:stone",
+        "requires_correct_tool_for_drops": true,
+        "destroy_time": 1.5,
+        "explosion_resistance": 6.0
+    }
+}
