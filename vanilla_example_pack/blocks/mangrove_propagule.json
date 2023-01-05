@@ -1,0 +1,11 @@
+{
+    "behavior": "minecraft:mangrove_propagule",
+    "properties": {
+        "material": "minecraft:plant",
+        "has_collision": false,
+        "is_randomly_ticking": true,
+        "destroy_time": 0.0,
+        "sound_type": "minecraft:grass",
+        "offset_type": "xz"
+    }
+}

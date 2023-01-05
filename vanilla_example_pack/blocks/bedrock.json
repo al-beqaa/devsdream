@@ -1,0 +1,9 @@
+{
+    "properties": {
+        "material": "minecraft:stone",
+        "destroy_time": -1.0,
+        "explosion_resistance": 3600000.0,
+        "drops": "minecraft:empty",
+        "is_valid_spawn": false
+    }
+}

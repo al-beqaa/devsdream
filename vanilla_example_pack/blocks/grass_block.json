@@ -2,7 +2,7 @@
     "behavior": "minecraft:grass",
     "properties": {
         "material": "minecraft:grass",
-        "ticks_randomly": true,
+        "is_randomly_ticking": true,
         "destroy_time": 6.0,
         "sound_type": "minecraft:grass"
     }

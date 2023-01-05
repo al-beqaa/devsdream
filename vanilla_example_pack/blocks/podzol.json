@@ -1,0 +1,8 @@
+{
+    "properties": {
+        "material": "minecraft:dirt",
+        "material_color": "podzol",
+        "destroy_time": 0.5,
+        "sound_type": "minecraft:gravel"
+    }
+}

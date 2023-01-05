@@ -1,0 +1,11 @@
+{
+    "behavior": "minecraft:drop_experience",
+    "properties": {
+        "material": "minecraft:stone",
+        "requires_correct_tool_for_drops": true,
+        "destroy_time": 4.5,
+        "explosion_resistance": 3.0,
+        "material_color": "deepslate",
+        "sound_type": "minecraft:deepslate"
+    }
+}

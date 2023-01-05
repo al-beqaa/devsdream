@@ -1,0 +1,9 @@
+{
+    "behavior": "minecraft:gravel",
+    "properties": {
+        "material": "minecraft:sand",
+        "material_color": "stone",
+        "destroy_time": 0.6,
+        "sound_type": "minecraft:gravel"
+    }
+}

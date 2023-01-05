@@ -1,0 +1,10 @@
+{
+    "properties": {
+        "material": "minecraft:wood",
+        "material_color": "color_yellow",
+        "destroy_time": 2.0,
+        "explosion_resistance": 3.0,
+        "sound_type": "minecraft:bamboo_wood",
+        "required_features": "minecraft:update_1_20"
+    }
+}

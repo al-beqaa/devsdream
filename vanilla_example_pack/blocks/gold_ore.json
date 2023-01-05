@@ -1,0 +1,9 @@
+{
+    "behavior": "minecraft:drop_experience",
+    "properties": {
+        "material": "minecraft:stone",
+        "requires_correct_tool_for_drops": true,
+        "destroy_time": 3.0,
+        "explosion_resistance": 3.0
+    }
+}

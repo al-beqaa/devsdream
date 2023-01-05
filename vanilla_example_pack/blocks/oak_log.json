@@ -1,0 +1,19 @@
+{
+    "behavior": "minecraft:rotated_pillar",
+    "properties": {
+        "material": "minecraft:wood",
+        "material_color": "podzol",
+        "destroy_time": 2.0,
+        "sound_type": "minecraft:wood",
+        "permutations": [
+            {
+                "state": {
+                    "axis": "y"
+                },
+                "properties": {
+                    "material_color": "wood"
+                }
+            }
+        ]
+    }
+}
